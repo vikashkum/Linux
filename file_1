@@ -1,3 +1,11 @@
-file 1
-Hi
-hello
+Web server -> 
+application server -> we will deploying dot filein app server 
+J2e
+payment gateway
+ejb
+.ear file 
+.jar file
+.war file 
+
+
+dot folder is created to package the buit code 
